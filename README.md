@@ -3,6 +3,6 @@ Street tree data from the TreesCount! 2015 Street Tree Census, conducted by volu
 
 Dataset URL: https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh
 
-### Tutorial by Misa Turp <br/>
+### Tutorial by Misra Turp <br/>
 Data Exploration: https://www.youtube.com/watch?v=OY4eQrekQvs <br/>
 Data Cleaning: https://www.youtube.com/watch?v=qxpKCBV60U4
